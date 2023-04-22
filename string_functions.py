@@ -1,5 +1,6 @@
 str = 'abc'
 
+
 str.capitalize()	#Converts the first character to upper case
 str.casefold()	#Converts string into lower case
 str.center()	#Returns a centered string
