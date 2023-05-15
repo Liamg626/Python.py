@@ -1,0 +1,17 @@
+# for loop iterates index by index over a list or array or by a certain amount of indexes
+
+list = [1, 2, 3, 4, 5]
+
+for i in list:
+
+or 
+
+for i in range(0, len(list)):
+
+# then include your code under it for what you want to do with each index, can provide if statements for example
+
+count = 0
+for i in range(0, len(list)):
+  if list[i] % 2:
+    count += 1
+return count
