@@ -1,0 +1,8 @@
+# provide a peice of code that requires a condition to be met to execute
+
+count = 1
+
+if count = 0:
+  print ('Yes')
+else:
+  print ('No')
