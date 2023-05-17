@@ -1,0 +1,6 @@
+# while loop, loops through code as long as the condition is met
+
+count = 0
+while count < 10:
+  print (count)
+  count += 1
